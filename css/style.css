@@ -1,0 +1,94 @@
+* {
+	margin: 0;
+	padding: 0;
+
+}
+
+
+button {
+	outline: 0;
+	border: 0;
+	border-radius: 50px;
+	width: 50px;
+	height: 50px;
+	text-align: center;
+}
+
+.kalkulator {
+	-webkit-box-shadow: -4px -7px 30px 10px rgba(0,0,0,0.76);
+	-moz-box-shadow: -4px -7px 30px 10px rgba(0,0,0,0.76);
+	box-shadow: -4px -7px 30px 10px rgba(0,0,0,0.76);
+	border-radius: 15px;
+	width: 215px;
+	background-color: black;
+	margin: 0 auto;
+	padding-bottom: 20px;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+.nol {
+	font-size: 30px;
+	width: 105px;
+	text-align: left;
+	padding-left: 10px;
+	color: white;
+	background-color: 	#3B3B3B;
+}
+
+.grey {
+	font-size: 20px;
+	background-color: lightgrey;
+}
+
+.grey: hover {
+	color: #3B3B3B;
+	background-color: white;
+}
+
+ 
+
+.orange {
+	color: white;
+	background: #3B3B3B;
+	font-size: 20px;
+	background-color: orange;
+	transition: 0.5s
+}
+.orange:hover {
+	color: #3B3B3B;
+	background-color: white;
+}
+
+.onetwo {
+	font-size: 30px;
+	color: white;
+	background:  #3B3B3B;
+	transition: 0.5s;
+}
+
+
+.onetwo:hover {
+	color: #3B3B3B;
+	background-color: white; 
+}
+
+.caunter{
+	outline: 0;
+	text-align: right;
+	color: white;
+	height: 210px;
+	background-color: black;
+	font-size: 30px;
+	width: 	210px;
+	border: 0;
+	margin-top: 5px;
+}
+
+
+body {
+	padding-top: 200px;
+	background: url(https://news.solidwaste.ru/wp-content/uploads/2019/03/kalkulyator1-1024x683.jpg) no-repeat center top / cover;
+}
+
+
